@@ -1,6 +1,5 @@
 # Tüm Türkiye Namaz Vakti Api
 
- Kullanılan Api : https://www.haberturk.com/namaz-vakitleri 
 
 Projenin Çalışması için gerekli paketlerin kurulumu ; 
 
