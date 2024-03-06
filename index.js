@@ -23,7 +23,7 @@ app.get('/', (req, res) => {
         const $ = cheerio.load(response.data)
         const iftarvakitleri = []
 
-        $('#imsakiye-table > tbody').each(function () {
+        $('.w-full > tbody').each(function () {
 
             $(this).find('tr').each(function () {
                 const iftarvakti = {
